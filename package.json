@@ -1,0 +1,22 @@
+{
+  "name": "longlifenutri",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "axios-retry": "^4.1.0",
+    "express": "^4.19.2",
+    "jsdom": "^24.0.0",
+    "retry-axios": "^1.0.2"
+  },
+  "devDependencies": {
+    "cors": "^2.8.5"
+  }
+}
